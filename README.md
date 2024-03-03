@@ -1,7 +1,7 @@
 # EMERGENCY.virus.sh
 This is the EMERGENCY.virus.sh virus by me.
 
-# EMERGENCY.virus.sh<br/>
+# EMERGENCY.virus.sh<br />
 !! WARNING !! <br />
   We warn you to use this script! <br />
   Using at your own risk. <br />
